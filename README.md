@@ -10,6 +10,7 @@ industrial protocol tools, and firmware analysis tooling. Everything runs.
 - **rtos-sensor-node** — FreeRTOS sensor node on RP2040. I2C temp, ADC, watchdog, UART log.
 - **scada-protocol-analyzer** — Modbus TCP and CAN/OBD-II decoder with CSV logging.
 - **firmware-security-toolkit** — Firmware image parser. Format ID, sections, strings, vuln flags.
+- **Verum-Bespoke-Singularity** — Pure-C GPU LLM inference engine.
 
 ## Contact
 jamesmarcusanderson@protonmail.com
