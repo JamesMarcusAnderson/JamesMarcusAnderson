@@ -10,8 +10,8 @@ Hardware and systems engineer. I build test benches, embedded firmware, industri
 - [**scada-protocol-analyzer**](https://github.com/JamesMarcusAnderson/scada-protocol-analyzer) — Modbus TCP and CAN/OBD-II decoder with CSV logging.
 - [**firmware-security-toolkit**](https://github.com/JamesMarcusAnderson/firmware-security-toolkit) — Firmware image parser. Format ID, sections, strings, vuln flags.
 - [**Verum-Bespoke-Singularity**](https://github.com/JamesMarcusAnderson/Verum-Bespoke-Singularity) — Pure-C GPU LLM inference engine.
-- [**truesmith**](https://github.com/JamesMarcusAnderson/truesmith) — Pure-C11 originality auditor. Scores a codebase on original names, no third-party code, no duplication, real work, and docs matching code.
-- [**fwtool**](https://github.com/JamesMarcusAnderson/fwtool) — Firmware security analysis product (v1.0.0). Product site and downloads.
+- [**Touchstone**](https://github.com/JamesMarcusAnderson/touchstone) — Pure-C11 originality auditor. Scores a codebase on original names, no third-party code, no duplication, real work, and docs matching code.
+- [**FirmwareScope**](https://github.com/JamesMarcusAnderson/firmwarescope) — Firmware security analysis product (v1.0.0). Product site and downloads.
 
 ## Contact
 jamesmarcusanderson@protonmail.com
