@@ -1,7 +1,7 @@
 # James Anderson
 Houston, TX
 
-Hardware and systems engineer. I build test benches, embedded firmware, industrial protocol tools, and firmware analysis tooling. Everything runs. Recent work includes firmware image and ELF analysis with vulnerability-pattern flagging, Metal GPU backend work, and measured board-level diagnostics.
+Hardware and systems engineer. I build test benches, embedded firmware, industrial protocol tools, and firmware analysis tooling. Everything runs. Recent work includes firmware image and ELF analysis with vulnerability-pattern flagging, from-scratch C11 GPU drivers, and measured board-level diagnostics.
 
 ## Projects
 
@@ -10,6 +10,8 @@ Hardware and systems engineer. I build test benches, embedded firmware, industri
 - [**scada-protocol-analyzer**](https://github.com/JamesMarcusAnderson/scada-protocol-analyzer) — Modbus TCP and CAN/OBD-II decoder with CSV logging.
 - [**firmware-security-toolkit**](https://github.com/JamesMarcusAnderson/firmware-security-toolkit) — Firmware image parser. Format ID, sections, strings, vuln flags.
 - [**Verum-Bespoke-Singularity**](https://github.com/JamesMarcusAnderson/Verum-Bespoke-Singularity) — Pure-C GPU LLM inference engine.
+- [**truesmith**](https://github.com/JamesMarcusAnderson/truesmith) — Pure-C11 originality auditor. Scores a codebase on original names, no third-party code, no duplication, real work, and docs matching code.
+- [**fwtool**](https://github.com/JamesMarcusAnderson/fwtool) — Firmware security analysis product (v1.0.0). Product site and downloads.
 
 ## Contact
 jamesmarcusanderson@protonmail.com
